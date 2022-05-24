@@ -66,7 +66,7 @@ sessioninstaller==0.0.0
 six==1.11.0
 sklearn==0.0
 system-service==0.3
-tensorflow==1.5.0
+tensorflow==2.6.4
 tensorflow-tensorboard==1.5.1
 Theano==0.9.0
 toolz==0.8.2
